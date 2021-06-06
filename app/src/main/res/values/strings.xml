@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minin</string>
+    <string name="error_image_indexing">Failed to load image (index phase)</string>
+    <string name="progress_bar_loading_gif">Downloading GIF...</string>
+    <string name="error_gif_downloading">Failed to download gif image</string>
+    <string name="progress_bar_loading_img_info">Loading image info...</string>
+</resources>
